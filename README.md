@@ -44,7 +44,7 @@ To deploy this project run
 
 ```bash
 Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open http://localhost:3000 to view it in your browser.
 
 You need to reload the page to see changes
 ```
